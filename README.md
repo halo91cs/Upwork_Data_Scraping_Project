@@ -11,5 +11,5 @@ Data Scraping and Manipulation
 
 <p>Scrape_DOH folder contains the exported data from DOH website along with the code for getting practitioners' profiles links and appends those links to the exported data.</p>
 
-<p>Data_Cleaning folder contains some json files which has all information about practitioners in a specific specialty. Currently we have info for Endicronology, Internal Medicine, Otolaryngology, Pulmonology, and Urology specialists. Code basically extracts relevant information that we need from raw Json files and stores them in a csv files for each specialty. .csv files are the output files of the code.</p>
+<p>Data_Cleaning folder contains some json files which has all information about practitioners in a specific specialty. Currently we have info for Endicronology, Internal Medicine, Otolaryngology, Pulmonology, and Urology specialists. Code basically extracts relevant information that we need from raw Json files and stores them in a csv files for each specialty. Finally, .csv files in final_csv_files folder are the output files of the code.</p>
 
